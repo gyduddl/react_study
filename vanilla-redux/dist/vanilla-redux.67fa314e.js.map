@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["console","log"],"mappings":";AAAAA,QAAQC,IAAI","file":"vanilla-redux.67fa314e.js","sourceRoot":"..","sourcesContent":["console.log('hello parcel')"]}
